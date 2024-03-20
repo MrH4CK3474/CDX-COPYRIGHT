@@ -16,7 +16,7 @@
 
 
 # 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 💗🥀
-<a href="https://t.me/T34M_CDX"><img title="Telegram" src="https://img.shields.io/badge/CODEX-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a> href="https://instagram.com/_mr_raaj_474"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://t.me/T34M_CDX"><img title="Telegram" src="https://img.shields.io/badge/CODEX-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 <a  title="Support" src="https://img.shields.io/badge/Support-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
