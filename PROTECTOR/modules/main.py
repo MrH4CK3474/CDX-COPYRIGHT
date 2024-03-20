@@ -21,22 +21,22 @@ START_TEXT = """<b> 🤖 ᴄᴏᴘʏʀɪɢʜᴛ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🛡�
 @app.on_message(filters.command("start"))
 async def start_command_handler(_, msg):
     buttons = [
-        [InlineKeyboardButton("ᴀᴅᴅ ᴍᴇ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
-        [InlineKeyboardButton("• ʜᴀɴᴅʟᴇʀ •", callback_data="vip_back")]
+        [InlineKeyboardButton("🍁 𝗔𝗗𝗗 𝗠𝗘 𝗕𝗔𝗕𝗬 🍁", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
+        [InlineKeyboardButton("🍁 𝗛𝗔𝗡𝗗𝗟𝗘𝗥 🍁", callback_data="vip_back")]
         
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
     await msg.reply_photo(
-        photo="https://telegra.ph/file/8f6b2cc26b522a252b16a.jpg",
+        photo="https://telegra.ph/file/b189804afa16e5759c478.jpg",
         caption=START_TEXT,
         reply_markup=reply_markup
     )
 
 # Callback Query Handler
 gd_buttons = [
-    [InlineKeyboardButton("ᴏᴡɴᴇʀ", url=f"https://t.me/JARVIS_V2"),
-     InlineKeyboardButton("• ʙᴀᴄᴋ •", callback_data="back_to_start"),
-     InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/JARVIS_X_SUPPORT")]
+    [InlineKeyboardButton("🌿 𝗢𝗪𝗡𝗘𝗥 🌿", url=f"https://t.me/STR1K3_B0SS"),
+     InlineKeyboardButton("🍁 𝗕𝗔𝗖𝗞 🍁", callback_data="back_to_start"),
+     InlineKeyboardButton("🍂 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 🍂", url="https://t.me/T34M_CDX")]
 ]
 
 @app.on_callback_query(filters.regex("vip_back"))
@@ -82,7 +82,7 @@ async def activevc(_, message: Message):
         f"➪ꜱᴛᴏʀᴀɢᴇ: {size_formatter(storage.total)} [ᴛᴏᴛᴀʟ]\n"
         f"➪{size_formatter(storage.used)} [ᴜsᴇᴅ]\n"
         f"➪{size_formatter(storage.free)} [ғʀᴇᴇ]\n"
-        f"➪ᴊᴀʀᴠɪs ᴠᴇʀsɪᴏɴ: {python_version},"
+        f"➪ᴄᴅx ᴠᴇʀsɪᴏɴ: {python_version},"
     )
 
     await message.reply(reply_text, quote=True)
