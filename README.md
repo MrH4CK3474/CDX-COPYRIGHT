@@ -2,8 +2,7 @@
 <h3><img  style="align-item" :"center" src="https://telegra.ph/file/b189804afa16e5759c478.jpg" width="80px" height="70%"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+CODEX+COPYRIGHT+🖤+🥀"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/doraemon890/count.svg" />
+ src="https://profile-counter.glitch.me/doraemon890/count.svg" />
 </p>
 <h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=350&lines=CDX+COPYRIGHT"></b></h1>
 
